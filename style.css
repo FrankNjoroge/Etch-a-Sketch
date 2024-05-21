@@ -10,13 +10,13 @@ h1 {
 .container {
   background-color: #fff;
 
-  height: 400px;
-  width: 400px;
+  height: 500px;
+  width: 500px;
   border: 1px solid #000;
   display: flex;
   flex-wrap: wrap;
 }
 
 button {
-  margin: 10px;
+  margin: 28px;
 }

@@ -9,8 +9,8 @@ function makeGrid(size) {
     const div = document.createElement("div");
     container.appendChild(div);
     let size2 = size * size;
-    div.setAttribute("style", `height:${Math.sqrt((400 * 400) / size2)}px`);
-    div.setAttribute("style", `width:${Math.sqrt((400 * 400) / size2)}px`);
+    div.setAttribute("style", `height:${Math.sqrt((500 * 500) / size2)}px`);
+    div.setAttribute("style", `width:${Math.sqrt((500 * 500) / size2)}px`);
   }
 }
 
